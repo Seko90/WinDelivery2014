@@ -63,6 +63,7 @@ Um die Kundentabelle und Drag&Drop zu erstellen.
 
 Zur Kundentabelle : 
 
+Mithilfe von JavaScript und JQuery wurde unsere "Data-Table" erstellt, indem wir dann in unsere Kundetabelle, ohne die ganze Seite neu laden Suchen zu können, nach allen Inhalten der Tabelle.
 
 
 Drag&Drop : 
