@@ -1,3 +1,5 @@
+<h1>"Fast, Simple and Cheap = WinDelivery 2014"</h1>
+
 	<b>Projektname : WinDelivery 2014</b>
 
 <b>Teammitglieder :</b>
@@ -10,9 +12,15 @@ Hussein Hisin	270416
 
 <b>Beschreibung des Projekts: </b>
 
-Uns ist aufgefallen, dass es zwar ein einheitliches Bestellformat für den Kunden gibt(z.b. Lieferservice.de), aber die Lieferanten keine einheitlichen Systeme haben um die Kunden zu verwalten. Unsere Webapplikation soll ein einfacher Einstieg in die Verwaltung von Kunden im über das Internet sein. 
-Unsere Webapplikation soll Restaurant das Bearbeiten und Verwalten von Aufträgen in Bezug zur Lieferung von Bestellung an den Kunden vereinfachen.
+Uns ist aufgefallen, dass es zwar ein einheitliches Bestellformat für den Kunden gibt(z.B. Lieferservice.de), aber die Lieferanten keine einheitlichen Systeme haben um die Kunden zu verwalten. Unsere Webapplikation soll ein einfacher Einstieg in die Verwaltung von Kunden über das Internet sein. 
+Unser Projekt soll Restaurants das Bearbeiten und Verwalten von Aufträgen in Bezug zur Lieferung von Bestellung an den Kunden vereinfachen.
 Dieses Projekt ist übertragbar auf alle Restaurants mit Lieferservice. Unsere Webapplikation soll die Bestellung überschaubar und in der weiteren Entwicklung auch Statistiken bzw. Rechnungen online darstellbar machen. 
+Uns ist es sehr wichtig gewesen, den Bestellprozess sowie die Usebility durch die Einfachheit zu beschleunigen.
+
+WinDelivery 2014 macht es möglich, dass der User die Artikelnummern nicht mehr auswendig aneignen muss, sowie von Kundendaten bis hinzu Produktpflege leichter händeln lassen.
+
+
+
 
 <b>Beschreibung der technischen Umsetzung:</b>
 
