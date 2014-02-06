@@ -1,16 +1,16 @@
 	<b>Projektname : WinDelivery 2014</b>
 
 <b>Teammitglieder :</b> 
-Serkan Altin 	348694
-Thomas Sauer 	323994
+Serkan Altin 	348694<br>
+Thomas Sauer 	323994<br>
 Hussein Hisin	
 
-<b>Beschreibung des Projekts: </b>
+<b>Beschreibung des Projekts: </b><br>
 Uns ist aufgefallen, dass es zwar ein einheitliches Bestellformat für den Kunden gibt(z.b. Lieferservice.de), aber die Lieferanten keine einheitlichen Systeme haben um die Kunden zu verwalten. Unsere Webapplikation soll ein einfacher Einstieg in die Verwaltung von Kunden im über das Internet sein. 
 Unsere Webapplikation soll Restaurant das Bearbeiten und Verwalten von Aufträgen in Bezug zur Lieferung von Bestellung an den Kunden vereinfachen.
 Dieses Projekt ist übertragbar auf alle Restaurants mit Lieferservice. Unsere Webapplikation soll die Bestellung überschaubar und in der weiteren Entwicklung auch Statistiken bzw. Rechnungen online darstellbar machen. 
 
-<b>Beschreibung der technischen Umsetzung:</b>
+<b>Beschreibung der technischen Umsetzung:</b><br>
 Für unsere Projekt benötigen wir sechs Datenbanken bzw. Modelle, die folgendermaßen heißen : 
 - "User", Verwaltung der Mitarbeiter-Konten(mit Adminfunktion)
 - "category", um Produkte eine bestimmte Kategorie zuzuordnen
